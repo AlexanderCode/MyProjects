@@ -120,8 +120,12 @@ PAGE: PORTFOLIO
 #gallery li a p {
   margin: 0;
   padding: 5%;
-  font-size: 0.75em;
-  color: #bdc3c7;
+  font-size: 0.90em;
+  color: #1a1a1a;
+}
+
+#code {
+  padding: 5%;
 }
 
 
@@ -182,7 +186,7 @@ COLORING
 /* site body */
 body {
   background-color: #fff;
-  color: #999;
+  color: #1a1a1a;
 }
 
 /* green header */
